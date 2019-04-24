@@ -1,0 +1,5325 @@
+{
+  "paging": {
+    "limit": 100,
+    "total": 11540,
+    "next": "dGltZT0xNTExMjQzNzg3LjM3NDY0NixpZD02NTg2ZGQ0Ny1jOGRkLTRiMTAtYjE0YS0zYjU1MTNkZjJlNTU=",
+    "previous": "dGltZT0xNTExMjMwMzU0LjI2NTAyNyxpZD1lZGZlODZjMi1iNWM1LTRjZjktOTMxMC02ODdkMDA0MWViYTE="
+  },
+  "data": [
+    {
+      "id": "edfe86c2-b5c5-4cf9-9310-687d0041eba1",
+      "name": "SAMRAA_ALKHALEEJ",
+      "mmsi": 642122021,
+      "imo": 9331141,
+      "call_sign": "5AXG",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "LY",
+      "length": 248,
+      "width": 44,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:12:34.265027+00:00",
+      "updated_at": "2019-04-23T14:34:10.927174+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:40+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.38151,
+            37.97121
+          ]
+        },
+        "heading": 269.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 14.2,
+        "maneuver": 0.0,
+        "course": 10.4
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-22T10:00:00+00:00",
+        "destination": "PACHI. GREECE"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Service Vessels",
+      "individual_classification": "Oil Tanker",
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "a42f4bc5-44c4-4093-b5df-b9a548b12708",
+      "name": "LUJININGHUO3583",
+      "mmsi": 413960014,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Cargo",
+      "class": "B",
+      "flag": "CN",
+      "length": 44,
+      "width": 9,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:14:28.218606+00:00",
+      "updated_at": "2019-04-23T14:34:11.211117+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:25+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.83418,
+            32.03128
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "6ff47081-6062-4d9a-9e7e-4f316ba030fa",
+      "name": "PANDION",
+      "mmsi": 212436000,
+      "imo": 9256420,
+      "call_sign": "5BDY4",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "CY",
+      "length": 117,
+      "width": 18,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:27:32.559919+00:00",
+      "updated_at": "2019-04-23T14:35:12.823714+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.1085,
+            56.80033
+          ]
+        },
+        "heading": 194.0,
+        "speed": 13.4,
+        "rot": -6.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 6.7,
+        "maneuver": 0.0,
+        "course": 196.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T16:00:00+00:00",
+        "destination": "SENYN>DKAAR"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Oil Tanker",
+      "gross_tonnage": "6280",
+      "lifeboats": null,
+      "person_capacity": 16.0,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "4bca65cb-6f01-43f0-bcbd-31edea56aeb8",
+      "name": "GAN DONG GANG HUA 29",
+      "mmsi": 413801302,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Tanker",
+      "class": "B",
+      "flag": "CN",
+      "length": 49,
+      "width": 12,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:37:31.754177+00:00",
+      "updated_at": "2019-04-23T14:35:15.973790+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:03+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            118.34348,
+            31.35095
+          ]
+        },
+        "heading": 511.0,
+        "speed": 6.6,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 343.6
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "c48ada56-b20a-4ba2-b3b2-46ca8c332595",
+      "name": "T&T SPIRIT",
+      "mmsi": 362029000,
+      "imo": 9280897,
+      "call_sign": "9YGS",
+      "ship_type": "High-Speed Craft",
+      "class": "A",
+      "flag": "TT",
+      "length": 98,
+      "width": 26,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:37:33.623000+00:00",
+      "updated_at": "2019-04-23T14:33:28.464407+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:30:19+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -61.51333,
+            10.6465
+          ]
+        },
+        "heading": 235.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.0,
+        "maneuver": 0.0,
+        "course": 345.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-23T19:45:00+00:00",
+        "destination": "TTSCAR"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": "6558.0",
+      "lifeboats": null,
+      "person_capacity": 878.0,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "cd0ad300-e2d3-4873-9efc-3c6bdfb41487",
+      "name": "SHUNLI9HAO",
+      "mmsi": 413825662,
+      "imo": null,
+      "call_sign": "TSTAISB",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 67,
+      "width": 11,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:42:32.719377+00:00",
+      "updated_at": "2019-04-23T14:35:13.069130+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:03+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            112.24788,
+            30.29388
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.1,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 213.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "0294d5d5-19f7-446f-bfdb-cec3a7997293",
+      "name": "TYR",
+      "mmsi": 725001071,
+      "imo": 9673094,
+      "call_sign": "CA4364",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CL",
+      "length": 63,
+      "width": 14,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:43:27.417719+00:00",
+      "updated_at": "2019-04-23T14:34:09.041046+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T13:53:16+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.03309,
+            -41.51752
+          ]
+        },
+        "heading": 330.0,
+        "speed": 0.0,
+        "rot": 9.0,
+        "accuracy": null,
+        "collection_type": "satellite",
+        "draught": 5.0,
+        "maneuver": 0.0,
+        "course": 126.2
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-16T06:00:00+00:00",
+        "destination": "BA CHINCUI"
+      },
+      "predicted_position": {
+        "timestamp": "2019-04-23T14:29:13+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.03309,
+            -41.51749
+          ]
+        },
+        "speed": 0.0,
+        "course": 320.6,
+        "confidence_radius": 9.3747
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "4b1d6aa1-b8c9-42ca-a022-a2f20e8cd5d2",
+      "name": "KO RYO 305 HO",
+      "mmsi": 441719000,
+      "imo": 9042788,
+      "call_sign": "DSQV9",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "KR",
+      "length": 30,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:43:27.823518+00:00",
+      "updated_at": "2019-04-23T14:34:10.717077+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:26+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.35594,
+            35.43908
+          ]
+        },
+        "heading": 328.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.5,
+        "maneuver": 0.0,
+        "course": 321.7
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-19T07:40:00+00:00",
+        "destination": "ULSAN"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": "173",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "d1619e96-36f5-427e-b269-8094918123da",
+      "name": "BIN HAI 267",
+      "mmsi": 412301370,
+      "imo": 9289324,
+      "call_sign": "BFNS",
+      "ship_type": "Other",
+      "class": "A",
+      "flag": "CN",
+      "length": 69,
+      "width": 14,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:48:36.736408+00:00",
+      "updated_at": "2019-04-23T14:35:15.050904+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:07+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.08978,
+            39.97174
+          ]
+        },
+        "heading": 25.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.8,
+        "maneuver": 0.0,
+        "course": 8.8
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-23T11:00:00+00:00",
+        "destination": "SUIZHONG361"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "All Other Activities",
+      "individual_classification": "Pusher/Tug",
+      "gross_tonnage": "1767.0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "dbd8712e-57be-4ed0-8246-b66daced02cd",
+      "name": "SUTONGYANGHUO9999",
+      "mmsi": 413860846,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Cargo",
+      "class": "B",
+      "flag": "CN",
+      "length": 63,
+      "width": 13,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:52:35.325725+00:00",
+      "updated_at": "2019-04-23T14:35:16.862441+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:08+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.17309,
+            33.43203
+          ]
+        },
+        "heading": 511.0,
+        "speed": 3.3,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 328.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "5720b3b4-7519-4672-b523-cb8bf961b1bd",
+      "name": "JIN SHUN 6",
+      "mmsi": 413770239,
+      "imo": null,
+      "call_sign": "0000",
+      "ship_type": "Cargo",
+      "class": "B",
+      "flag": "CN",
+      "length": 76,
+      "width": 20,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:53:26.899490+00:00",
+      "updated_at": "2019-04-23T14:35:12.334288+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:20+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.16907,
+            31.94299
+          ]
+        },
+        "heading": 480.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "fbaec2a3-93a2-4f2b-90b6-a03056fb7c97",
+      "name": "SANTANA",
+      "mmsi": 636016381,
+      "imo": 9449388,
+      "call_sign": "D5FX2",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "LR",
+      "length": 127,
+      "width": 18,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:58:27.209644+00:00",
+      "updated_at": "2019-04-23T14:34:10.927174+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:43+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.10918,
+            46.18155
+          ]
+        },
+        "heading": 314.0,
+        "speed": 9.6,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.6,
+        "maneuver": 0.0,
+        "course": 314.8
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T03:00:00+00:00",
+        "destination": "UANIK"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "General Cargo",
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "a71a8af0-fc3d-454a-9022-9970d70778c4",
+      "name": "WON3 VERTROUWEN",
+      "mmsi": 244780677,
+      "imo": null,
+      "call_sign": "PA3445",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "NL",
+      "length": 24,
+      "width": 6,
+      "ais_version": 0,
+      "created_at": "2017-11-21T02:58:28.158887+00:00",
+      "updated_at": "2019-04-23T14:35:13.596809+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.45159,
+            53.17621
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 233.5
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": "HARLINGEN"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Undefined"
+    },
+    {
+      "id": "a770f03b-0f15-4e56-8763-a493970ba9ff",
+      "name": "CASA BLANCA",
+      "mmsi": 338205064,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Pleasure Craft",
+      "class": "B",
+      "flag": "US",
+      "length": 19,
+      "width": 6,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:00:27.601385+00:00",
+      "updated_at": "2019-04-23T14:35:11.647403+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:45+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.14372,
+            25.76132
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 218.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "ce66179a-e19a-454b-a96e-4f07595ac976",
+      "name": "ECO UNIVERSE",
+      "mmsi": 538006288,
+      "imo": 9713557,
+      "call_sign": "V7LK9",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "MH",
+      "length": 99,
+      "width": 17,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:05:26.671452+00:00",
+      "updated_at": "2019-04-23T14:35:13.103905+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:48+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.48245,
+            53.55417
+          ]
+        },
+        "heading": 275.0,
+        "speed": 12.9,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 6.0,
+        "maneuver": 0.0,
+        "course": 275.5
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-26T01:00:00+00:00",
+        "destination": "NLAMS"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "a1d4b7a4-b9b2-41bd-9439-453b77aba740",
+      "name": "LU JI NING HUO 1950",
+      "mmsi": 413817723,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 58,
+      "width": 11,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:06:29.757203+00:00",
+      "updated_at": "2019-04-23T14:35:12.570529+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.36548,
+            33.14298
+          ]
+        },
+        "heading": 11.0,
+        "speed": 4.2,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 138.1
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "25e1c985-5f12-43e2-ae7e-24efed703f1d",
+      "name": "SVITZER LYNDHURST",
+      "mmsi": 232002565,
+      "imo": 9129495,
+      "call_sign": "MVCY8",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "GB",
+      "length": 30,
+      "width": 11,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:07:37.866473+00:00",
+      "updated_at": "2019-04-23T14:34:08.998692+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:13+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.69382,
+            56.03328
+          ]
+        },
+        "heading": 46.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.5,
+        "maneuver": 0.0,
+        "course": 320.4
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-17T01:00:00+00:00",
+        "destination": "WORKING RIVER FORTH"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "eeecabbc-5698-4948-ab5e-08107b596a41",
+      "name": "SAVANNAH PEARL",
+      "mmsi": 308268000,
+      "imo": 8316699,
+      "call_sign": "C6JD7",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "BS",
+      "length": 188,
+      "width": 29,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:07:38.872667+00:00",
+      "updated_at": "2019-04-23T14:34:10.807829+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:23+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.0811,
+            30.07549
+          ]
+        },
+        "heading": 266.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 12.0,
+        "maneuver": 0.0,
+        "course": 240.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-19T03:00:00+00:00",
+        "destination": "BEAUMONT"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "423dcb77-a53e-4d3c-becb-ccc053fef5e5",
+      "name": "EIWA MARU11",
+      "mmsi": 441145000,
+      "imo": 9005950,
+      "call_sign": "DSOQ5",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "KR",
+      "length": 64,
+      "width": 10,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:12:35.144427+00:00",
+      "updated_at": "2019-04-23T14:34:09.818983+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:39+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.28712,
+            34.78381
+          ]
+        },
+        "heading": 46.0,
+        "speed": 12.6,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.5,
+        "maneuver": 0.0,
+        "course": 44.3
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T05:00:00+00:00",
+        "destination": "JP CHB"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": "499",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "29996e03-3743-4119-90bc-d814c92bae07",
+      "name": "YONGGANGTUO16",
+      "mmsi": 412036160,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Wing In Ground",
+      "class": "A",
+      "flag": "CN",
+      "length": 33,
+      "width": 10,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:13:27.829871+00:00",
+      "updated_at": "2019-04-23T14:35:12.823714+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:00+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.77362,
+            29.0177
+          ]
+        },
+        "heading": 142.0,
+        "speed": 4.3,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.0,
+        "maneuver": 0.0,
+        "course": 116.2
+      },
+      "most_recent_voyage": {
+        "eta": "2019-06-14T17:00:00+00:00",
+        "destination": "JIANTIAO"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "All Other Activities",
+      "individual_classification": "Pusher/Tug",
+      "gross_tonnage": "341.0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "7f7aa858-1709-4d71-a181-d71e7e53a8af",
+      "name": "AL-JULAI'A",
+      "mmsi": 447224000,
+      "imo": 9736470,
+      "call_sign": "9KGX",
+      "ship_type": "Special Craft",
+      "class": "A",
+      "flag": "KW",
+      "length": 46,
+      "width": 14,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:14:25.940648+00:00",
+      "updated_at": "2019-04-23T14:34:10.807829+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:18+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            48.09648,
+            29.29388
+          ]
+        },
+        "heading": 63.0,
+        "speed": 0.1,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 2.2,
+        "maneuver": 0.0,
+        "course": 350.5
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": "A"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "5553ebcd-3599-451b-870b-5d78c9a9f613",
+      "name": "ALVBJORN",
+      "mmsi": 265521460,
+      "imo": null,
+      "call_sign": "SLPA",
+      "ship_type": "Special Craft",
+      "class": "A",
+      "flag": "SE",
+      "length": 17,
+      "width": 5,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:18:28.228493+00:00",
+      "updated_at": "2019-04-23T14:34:10.807829+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.26692,
+            58.26723
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 1.8,
+        "maneuver": 0.0,
+        "course": 282.5
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "5fd493a3-dcc9-4e40-8262-b82026903d77",
+      "name": "SYLDO",
+      "mmsi": 205414290,
+      "imo": null,
+      "call_sign": "OT4142",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "BE",
+      "length": 39,
+      "width": 5,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:19:27.154350+00:00",
+      "updated_at": "2019-04-23T14:35:15.278757+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:06+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.44792,
+            51.24305
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 1.0,
+        "maneuver": 1.0,
+        "course": 166.9
+      },
+      "most_recent_voyage": {
+        "eta": "2020-02-17T17:35:00+00:00",
+        "destination": "VEGHEL"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "ae2cb61a-d1ca-4492-bc59-62052e57b420",
+      "name": "LORCON ILOILO",
+      "mmsi": 548662200,
+      "imo": 9262015,
+      "call_sign": "DUA3355",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "PH",
+      "length": 100,
+      "width": 19,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:25:28.702582+00:00",
+      "updated_at": "2019-04-23T14:35:15.034056+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:05+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.90945,
+            14.61592
+          ]
+        },
+        "heading": 87.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.2,
+        "maneuver": 0.0,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-23T16:00:00+00:00",
+        "destination": "MANILA"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "917f5cf0-bd50-4e5d-8d5e-bd4fddaa78fc",
+      "name": "BEILUNHAI 26",
+      "mmsi": 414212000,
+      "imo": 9161742,
+      "call_sign": "BLBE6",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 225,
+      "width": 32,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:27:32.600606+00:00",
+      "updated_at": "2019-04-23T14:35:15.050904+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:09+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.46817,
+            26.0415
+          ]
+        },
+        "heading": 34.0,
+        "speed": 11.9,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 11.9,
+        "maneuver": 0.0,
+        "course": 30.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-25T09:00:00+00:00",
+        "destination": "TAI CANG"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Bulk Carrier",
+      "gross_tonnage": "38878",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "44bf7d5c-dfbf-4dfa-82f7-5dfd51aab69a",
+      "name": "LUJININGTUO2026",
+      "mmsi": 413824089,
+      "imo": null,
+      "call_sign": "2026",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "CN",
+      "length": 34,
+      "width": 7,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:27:37.665649+00:00",
+      "updated_at": "2019-04-23T14:35:15.114815+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:05+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            117.67593,
+            34.55545
+          ]
+        },
+        "heading": 511.0,
+        "speed": 4.5,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 279.9
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "d8ddd72e-28a7-4b82-879e-3defce80962e",
+      "name": "DEEP BLUE",
+      "mmsi": 311105000,
+      "imo": 9215359,
+      "call_sign": "C6RM8",
+      "ship_type": "Other",
+      "class": "A",
+      "flag": "BS",
+      "length": 206,
+      "width": 32,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:30:28.803565+00:00",
+      "updated_at": "2019-04-23T14:35:12.570529+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.14142,
+            34.52456
+          ]
+        },
+        "heading": 175.0,
+        "speed": 10.6,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 8.4,
+        "maneuver": 0.0,
+        "course": 174.3
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T03:00:00+00:00",
+        "destination": "LEVIATHAN"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Cable Ship",
+      "gross_tonnage": "33791",
+      "lifeboats": null,
+      "person_capacity": 160.0,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "59a219f1-a909-4b7a-b51c-dea87016bbc9",
+      "name": "FAMILY ISLAND",
+      "mmsi": 677099500,
+      "imo": 7637345,
+      "call_sign": "5IM-795",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "TZ",
+      "length": null,
+      "width": null,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:30:29.552898+00:00",
+      "updated_at": "2019-04-23T14:35:16.862441+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.21899,
+            25.78417
+          ]
+        },
+        "heading": 511.0,
+        "speed": 3.2,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.1,
+        "maneuver": 0.0,
+        "course": 112.9
+      },
+      "most_recent_voyage": {
+        "eta": "2019-08-12T17:00:00+00:00",
+        "destination": "PAIXI HAITI"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "c0716a79-de8c-45fc-8728-603030335f72",
+      "name": "PORT KLANG VOYAGER",
+      "mmsi": 440162000,
+      "imo": 9275385,
+      "call_sign": "D7BD",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "KR",
+      "length": 235,
+      "width": 32,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:34:27.986143+00:00",
+      "updated_at": "2019-04-23T14:35:15.278757+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:03+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            118.18673,
+            23.59317
+          ]
+        },
+        "heading": 228.0,
+        "speed": 9.9,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 11.1,
+        "maneuver": 0.0,
+        "course": 229.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T23:00:00+00:00",
+        "destination": "CN SHEKOU"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "f7aadd75-9c93-4ba5-b954-2e78dd81a513",
+      "name": "VASOYFISK",
+      "mmsi": 257183500,
+      "imo": null,
+      "call_sign": "LG6781",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "NO",
+      "length": 11,
+      "width": 4,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:34:29.036796+00:00",
+      "updated_at": "2019-04-23T14:35:15.050904+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:07+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.73047,
+            63.85623
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 9.7
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Fishing Vessel",
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Undefined"
+    },
+    {
+      "id": "c9d4aad2-a272-43a1-ba85-981f7b253eb3",
+      "name": "ZAFER",
+      "mmsi": 566475000,
+      "imo": 9655365,
+      "call_sign": "9V9765",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "SG",
+      "length": 95,
+      "width": 14,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:36:27.579152+00:00",
+      "updated_at": "2019-04-23T14:35:13.391435+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:00+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.95663,
+            1.26148
+          ]
+        },
+        "heading": 511.0,
+        "speed": 6.8,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.6,
+        "maneuver": 0.0,
+        "course": 243.6
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-21T21:00:00+00:00",
+        "destination": "AEPB"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": "Oil Tanker",
+      "gross_tonnage": "2608",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "471d4e62-9651-4288-805f-74c5041f0fdd",
+      "name": "GC-64 MAR DEL PLATA",
+      "mmsi": 701516000,
+      "imo": null,
+      "call_sign": "L2AL",
+      "ship_type": "Special Craft",
+      "class": "A",
+      "flag": "AR",
+      "length": 26,
+      "width": 5,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:39:26.889308+00:00",
+      "updated_at": "2019-04-23T14:34:09.818983+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T13:54:53+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -58.57947,
+            -34.41597
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "satellite",
+        "draught": 1.6,
+        "maneuver": 0.0,
+        "course": 114.1
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": "TIGRE"
+      },
+      "predicted_position": {
+        "timestamp": "2019-04-23T14:19:03+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -58.57946,
+            -34.41596
+          ]
+        },
+        "speed": 0.0,
+        "course": 114.1,
+        "confidence_radius": 3.1247
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "b97f0fff-cf65-4ad3-a1cd-5ec5d18371bf",
+      "name": "LU JI NING HUO 2360",
+      "mmsi": 413953075,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Cargo",
+      "class": "B",
+      "flag": "CN",
+      "length": 45,
+      "width": 9,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:41:28.484483+00:00",
+      "updated_at": "2019-04-23T14:35:12.823714+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:00+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.32167,
+            33.18703
+          ]
+        },
+        "heading": 511.0,
+        "speed": 4.4,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 160.2
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "f0ba4834-7fcd-43dd-8f58-41c9fdea7ce2",
+      "name": "ZHONG YUAN 2266",
+      "mmsi": 413788207,
+      "imo": null,
+      "call_sign": null,
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 44,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:43:29.521361+00:00",
+      "updated_at": "2019-04-23T14:35:12.334288+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:00+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.15521,
+            31.66833
+          ]
+        },
+        "heading": 511.0,
+        "speed": 6.2,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 121.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "c2daa7b9-0061-4d52-a146-acffff3f6543",
+      "name": "HUI FENG 1699",
+      "mmsi": 413789131,
+      "imo": null,
+      "call_sign": null,
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 101,
+      "width": 17,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:46:31.606172+00:00",
+      "updated_at": "2019-04-23T14:35:14.524748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:07+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.77034,
+            31.99749
+          ]
+        },
+        "heading": 317.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 317.3
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "dc07270d-e7b0-4050-98fe-902046285428",
+      "name": "BEI HAI MING WANG",
+      "mmsi": 414749000,
+      "imo": 9628532,
+      "call_sign": "BPCF",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "CN",
+      "length": 250,
+      "width": 44,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:47:32.860094+00:00",
+      "updated_at": "2019-04-23T14:35:10.357937+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:34+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.95967,
+            27.8335
+          ]
+        },
+        "heading": 209.0,
+        "speed": 13.4,
+        "rot": 9.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 8.0,
+        "maneuver": 0.0,
+        "course": 211.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-25T23:00:00+00:00",
+        "destination": "XIN WENCHANG TMNL"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "35d1d5d2-3d9a-4339-b105-182f1296d829",
+      "name": "JINXING116",
+      "mmsi": 413322870,
+      "imo": null,
+      "call_sign": "BBKP6",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 96,
+      "width": 15,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:48:26.712932+00:00",
+      "updated_at": "2019-04-23T14:35:13.103905+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.67344,
+            31.35825
+          ]
+        },
+        "heading": 317.0,
+        "speed": 3.7,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.5,
+        "maneuver": 0.0,
+        "course": 323.1
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-23T15:00:00+00:00",
+        "destination": "SHANGHAI"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Dry Cargo",
+      "gross_tonnage": "2701",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "4b199db0-24d5-42bf-a0e2-3a8c7c532e1f",
+      "name": "HC LARA",
+      "mmsi": 305866000,
+      "imo": 9415064,
+      "call_sign": "V2GB5",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "AG",
+      "length": 130,
+      "width": 17,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:51:27.943445+00:00",
+      "updated_at": "2019-04-23T14:34:08.578264+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T13:57:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.01757,
+            -31.89069
+          ]
+        },
+        "heading": 227.0,
+        "speed": 13.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "satellite",
+        "draught": 7.4,
+        "maneuver": 0.0,
+        "course": 230.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T19:00:00+00:00",
+        "destination": "CAMPANA"
+      },
+      "predicted_position": {
+        "timestamp": "2019-04-23T14:27:24+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.1069955782,
+            -31.9428482878
+          ]
+        },
+        "speed": 12.71,
+        "course": 228.7,
+        "confidence_radius": 5.3256
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": "6577",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "ee2aafd2-196e-44a4-99f8-7a84bf061043",
+      "name": "YM IDEALS",
+      "mmsi": 416488000,
+      "imo": 9319129,
+      "call_sign": "BLHF",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "TW",
+      "length": 172,
+      "width": 27,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:52:33.346492+00:00",
+      "updated_at": "2019-04-23T14:35:12.459423+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:00+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.37503,
+            36.01042
+          ]
+        },
+        "heading": 107.0,
+        "speed": 14.5,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 8.4,
+        "maneuver": 0.0,
+        "course": 106.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-21T21:00:00+00:00",
+        "destination": "CNTAO>CNLYG"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "99cede29-63d0-4312-a6a4-d0609a6f68e6",
+      "name": "DONGTAIBAOZE",
+      "mmsi": 538004901,
+      "imo": 9428401,
+      "call_sign": "V7ZS2",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "MH",
+      "length": 137,
+      "width": 19,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:52:37.120160+00:00",
+      "updated_at": "2019-04-23T14:35:13.592076+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:05+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.27814,
+            36.09025
+          ]
+        },
+        "heading": 51.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.8,
+        "maneuver": 1.0,
+        "course": 164.8
+      },
+      "most_recent_voyage": {
+        "eta": "2020-03-28T09:00:00+00:00",
+        "destination": "QINGDAO CN"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "All Other Activities",
+      "individual_classification": "General Cargo",
+      "gross_tonnage": "8620",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "b1590cee-3725-464e-b367-036df9e9bb9a",
+      "name": "SAEHAN CHEMSTAR",
+      "mmsi": 441528000,
+      "imo": 9058517,
+      "call_sign": "DSQC6",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "KR",
+      "length": 115,
+      "width": 19,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:57:33.820769+00:00",
+      "updated_at": "2019-04-23T14:34:09.164763+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            129.14734,
+            37.50995
+          ]
+        },
+        "heading": 133.0,
+        "speed": 0.1,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.7,
+        "maneuver": 0.0,
+        "course": 186.7
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-22T13:00:00+00:00",
+        "destination": "DONGHAE KR"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": "4982",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "3212d254-9099-4ae1-8283-2a353825c73e",
+      "name": "FRANTSEN JUNIOR",
+      "mmsi": 258334000,
+      "imo": 6620797,
+      "call_sign": "LJDR",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "NO",
+      "length": 52,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:58:34.103662+00:00",
+      "updated_at": "2019-04-23T14:35:15.114815+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:09+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.18442,
+            68.78161
+          ]
+        },
+        "heading": 10.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 277.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-06-05T00:00:00+00:00",
+        "destination": "CALL CH 16"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Fishing Vessel",
+      "gross_tonnage": "693",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "7df19a49-eedf-406c-965f-38bd237eaf30",
+      "name": "SU SU HUO 1018",
+      "mmsi": 413961567,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Cargo",
+      "class": "B",
+      "flag": "CN",
+      "length": 48,
+      "width": 9,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:58:38.035302+00:00",
+      "updated_at": "2019-04-23T14:34:10.932999+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:06+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.26684,
+            34.25542
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "a84320c7-e0dc-41e0-be79-22c3edd943ff",
+      "name": "SUSUHUO1213",
+      "mmsi": 413824256,
+      "imo": null,
+      "call_sign": "TSTAISB",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 42,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T03:58:40.343512+00:00",
+      "updated_at": "2019-04-23T14:35:13.364263+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.3834,
+            31.96492
+          ]
+        },
+        "heading": 0.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "7821778e-91f1-4a7a-bb10-456ffd8ca340",
+      "name": "NAVIG8 AMMOLITE",
+      "mmsi": 538005781,
+      "imo": 9727534,
+      "call_sign": "V7GX7",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "MH",
+      "length": 184,
+      "width": 27,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:07:29.182337+00:00",
+      "updated_at": "2019-04-23T14:34:11.211117+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T13:53:15+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.71835,
+            -32.76315
+          ]
+        },
+        "heading": 342.0,
+        "speed": 0.1,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "satellite",
+        "draught": 6.7,
+        "maneuver": 0.0,
+        "course": 32.9
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-13T15:00:00+00:00",
+        "destination": "SAN LORENZO"
+      },
+      "predicted_position": {
+        "timestamp": "2019-04-23T14:23:20+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -60.71843,
+            -32.76317
+          ]
+        },
+        "speed": 0.0,
+        "course": 32.9,
+        "confidence_radius": 5.6247
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "cc1ee180-2436-4bb4-a27c-336bc4534c81",
+      "name": "MOL GARLAND",
+      "mmsi": 255805590,
+      "imo": 9535151,
+      "call_sign": "CQHO",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "PT",
+      "length": 275,
+      "width": 40,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:14:29.351935+00:00",
+      "updated_at": "2019-04-23T14:35:12.191475+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:20+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.26907,
+            22.26318
+          ]
+        },
+        "heading": 229.0,
+        "speed": 1.6,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 11.1,
+        "maneuver": 0.0,
+        "course": 135.4
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T12:00:00+00:00",
+        "destination": "SAJED"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "3096c560-c975-43cf-92d0-53039a967b83",
+      "name": "HUA FU YOU 2",
+      "mmsi": 413759000,
+      "imo": 9550060,
+      "call_sign": "BVEY7",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "CN",
+      "length": 116,
+      "width": 19,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:16:28.108127+00:00",
+      "updated_at": "2019-04-23T14:35:12.459423+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            122.85653,
+            37.45492
+          ]
+        },
+        "heading": 326.0,
+        "speed": 12.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.0,
+        "maneuver": 0.0,
+        "course": 328.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T18:00:00+00:00",
+        "destination": "BAYUQUAN"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Oil Tanker",
+      "gross_tonnage": "6082",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "dbd97ecd-0c5a-415f-8c3c-f140e6b2cd8e",
+      "name": "GLADYS S",
+      "mmsi": 366977850,
+      "imo": null,
+      "call_sign": "WDB9526",
+      "ship_type": "Special Craft",
+      "class": "A",
+      "flag": "US",
+      "length": 28,
+      "width": 7,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:17:32.417927+00:00",
+      "updated_at": "2019-04-23T14:35:11.852406+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:10+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.26362,
+            33.73258
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 6.9,
+        "maneuver": 0.0,
+        "course": 130.7
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-05T00:00:00+00:00",
+        "destination": "LA/LB HABOR OPS"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Passenger Ship",
+      "gross_tonnage": "96.0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "3b9b5c60-ce96-40a9-a77e-87c3e7570c87",
+      "name": "XINGHANG921",
+      "mmsi": 413900642,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Cargo",
+      "class": "B",
+      "flag": "CN",
+      "length": 50,
+      "width": 13,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:17:32.481002+00:00",
+      "updated_at": "2019-04-23T14:34:08.578264+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:12+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            112.8,
+            23.10361
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "b10ee5e1-4271-464c-b863-bd45cb5692d5",
+      "name": "UNCLE GEORGE",
+      "mmsi": 366997630,
+      "imo": null,
+      "call_sign": "WDH8275",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "US",
+      "length": 20,
+      "width": 7,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:23:27.900419+00:00",
+      "updated_at": "2019-04-23T14:35:14.651771+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.86164,
+            29.9635
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 2.7,
+        "maneuver": 0.0,
+        "course": 292.6
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "a064428c-2d24-4019-aa12-d7fc1935ba2f",
+      "name": "DON MIGUEL I",
+      "mmsi": 701000938,
+      "imo": 5092096,
+      "call_sign": "LW 2830",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "AR",
+      "length": 27,
+      "width": 6,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:26:28.643393+00:00",
+      "updated_at": "2019-04-23T14:34:09.041046+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T13:59:34+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.49016,
+            -40.36584
+          ]
+        },
+        "heading": 511.0,
+        "speed": 7.3,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "satellite",
+        "draught": 3.0,
+        "maneuver": 0.0,
+        "course": 38.1
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-18T08:00:00+00:00",
+        "destination": "ZONA DE PESCA"
+      },
+      "predicted_position": {
+        "timestamp": "2019-04-23T14:25:51+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -56.5061264651,
+            -40.3835700337
+          ]
+        },
+        "speed": 0.36,
+        "course": 55.2,
+        "confidence_radius": 5.5275
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Fishing Vessel",
+      "gross_tonnage": "114",
+      "lifeboats": 1.0,
+      "person_capacity": 11.0,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "65f1fa3f-38a1-4aac-af55-dcb68272bcac",
+      "name": "JIN HAI SHUN 2",
+      "mmsi": 413438480,
+      "imo": null,
+      "call_sign": "BKPT5",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 135,
+      "width": 19,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:27:35.342799+00:00",
+      "updated_at": "2019-04-23T14:35:15.034056+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:07+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            122.48257,
+            30.92457
+          ]
+        },
+        "heading": 220.0,
+        "speed": 11.2,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 7.2,
+        "maneuver": 0.0,
+        "course": 228.1
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T05:00:00+00:00",
+        "destination": "SHANGHAI"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "General Cargo",
+      "gross_tonnage": "7222",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "0bb5c60f-0b0b-4016-8ffd-2a873620c330",
+      "name": "FANEROMENI",
+      "mmsi": 237818200,
+      "imo": 8629125,
+      "call_sign": "SY4919",
+      "ship_type": "Passenger Ship",
+      "class": "A",
+      "flag": "GR",
+      "length": 73,
+      "width": 15,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:27:39.650589+00:00",
+      "updated_at": "2019-04-23T14:35:15.878579+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:06+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.52941,
+            37.96518
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 1.7,
+        "maneuver": 0.0,
+        "course": 52.9
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Undefined"
+    },
+    {
+      "id": "804e6dc7-783f-4d28-b7f3-1060b4878196",
+      "name": "MING FEI 166",
+      "mmsi": 413777778,
+      "imo": null,
+      "call_sign": null,
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 38,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:27:40.763590+00:00",
+      "updated_at": "2019-04-23T14:34:10.932999+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:53+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.54272,
+            30.85325
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 242.2
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "865f773e-d470-476d-bd7f-b76038cbb8c6",
+      "name": "MACALLAN 12",
+      "mmsi": 533170401,
+      "imo": 9803089,
+      "call_sign": "9WRZ4",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "MY",
+      "length": 30,
+      "width": 9,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:32:38.415935+00:00",
+      "updated_at": "2019-04-23T14:35:15.114815+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:05+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.87334,
+            -6.0435
+          ]
+        },
+        "heading": 107.0,
+        "speed": 0.2,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.5,
+        "maneuver": 0.0,
+        "course": 203.3
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-26T00:00:00+00:00",
+        "destination": "BANJARMASIN"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Pusher/Tug",
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way sailing"
+    },
+    {
+      "id": "4e5c630d-dc33-4d2e-b557-320cfbf1d581",
+      "name": "ALKYON",
+      "mmsi": 538005855,
+      "imo": 9655224,
+      "call_sign": "V7HN6",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "MH",
+      "length": 180,
+      "width": 30,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:32:38.609924+00:00",
+      "updated_at": "2019-04-23T14:35:11.647403+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:14+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -5.02651,
+            50.21979
+          ]
+        },
+        "heading": 7.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 345.2
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "All Other Activities",
+      "individual_classification": "Bulk Carrier",
+      "gross_tonnage": "24163",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "afc6a229-13a9-4887-8c8e-659bc0cc224b",
+      "name": "TEIGENES",
+      "mmsi": 259390000,
+      "imo": 9286841,
+      "call_sign": "LNTY",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "NO",
+      "length": 92,
+      "width": 15,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:34:26.456808+00:00",
+      "updated_at": "2019-04-23T14:35:13.364263+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.74104,
+            62.29183
+          ]
+        },
+        "heading": 234.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 7.0,
+        "maneuver": 0.0,
+        "course": 0.1
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": "CH_16 FOR INFO"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Fishing Vessel",
+      "gross_tonnage": "2883",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "73e09a4e-e7ba-4ea2-8c51-39c70c6a043a",
+      "name": "WAN CHUANH YE HAO",
+      "mmsi": 413996447,
+      "imo": null,
+      "call_sign": null,
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": null,
+      "width": null,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:34:27.648526+00:00",
+      "updated_at": "2019-04-23T14:35:15.050904+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            113.896,
+            30.02803
+          ]
+        },
+        "heading": 511.0,
+        "speed": 6.7,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 59.8
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "4ad6b21f-daf2-465c-9eaa-050aa2f1acb5",
+      "name": "MAIN HIGHWAY",
+      "mmsi": 212204000,
+      "imo": 9179983,
+      "call_sign": "P3ZV9",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CY",
+      "length": 100,
+      "width": 20,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:36:27.954630+00:00",
+      "updated_at": "2019-04-23T14:35:15.265565+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:03+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.00872,
+            57.7563
+          ]
+        },
+        "heading": 117.0,
+        "speed": 13.4,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.4,
+        "maneuver": 0.0,
+        "course": 113.1
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-23T22:00:00+00:00",
+        "destination": "HALMSTAD"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Vehicle Carrier",
+      "gross_tonnage": "9233",
+      "lifeboats": null,
+      "person_capacity": 13.0,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "c351ad5f-ad3b-4643-97f9-09052cb3a5ea",
+      "name": "THAMES FISHER",
+      "mmsi": 234789000,
+      "imo": 9145011,
+      "call_sign": "MXFP4",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "GB",
+      "length": 92,
+      "width": 15,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:37:36.874381+00:00",
+      "updated_at": "2019-04-23T14:35:15.878579+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.65719,
+            55.72153
+          ]
+        },
+        "heading": 130.0,
+        "speed": 9.3,
+        "rot": 127.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.5,
+        "maneuver": 0.0,
+        "course": 133.1
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T05:30:00+00:00",
+        "destination": "IMMINGHAM"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "768ad646-f50f-4f70-9efc-e0f1e3ca46ae",
+      "name": "TEYMUR EHMEDOV",
+      "mmsi": 423012100,
+      "imo": 8702226,
+      "call_sign": "4JIG",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "AZ",
+      "length": 119,
+      "width": 13,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:37:38.211588+00:00",
+      "updated_at": "2019-04-23T14:35:11.852406+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:45+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.79694,
+            45.33637
+          ]
+        },
+        "heading": 229.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 12.0,
+        "maneuver": 0.0,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-05-22T00:00:00+00:00",
+        "destination": "YEISK"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": "Dry Cargo",
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "24606362-6a50-47be-844f-f3c868b8a1e1",
+      "name": "ZHETONGXIANG",
+      "mmsi": 413990291,
+      "imo": null,
+      "call_sign": null,
+      "ship_type": "Passenger",
+      "class": "A",
+      "flag": "CN",
+      "length": 36,
+      "width": 6,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:41:29.276251+00:00",
+      "updated_at": "2019-04-23T14:35:14.524748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:06+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            118.90582,
+            33.56169
+          ]
+        },
+        "heading": 511.0,
+        "speed": 3.5,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 85.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "6d346427-a9e0-4c40-a951-f8c619317369",
+      "name": "STEN HIDRA",
+      "mmsi": 258751000,
+      "imo": 9358931,
+      "call_sign": "LAJX6",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "NO",
+      "length": 144,
+      "width": 23,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:42:32.629796+00:00",
+      "updated_at": "2019-04-23T14:35:15.278757+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.65331,
+            51.43353
+          ]
+        },
+        "heading": 260.0,
+        "speed": 0.1,
+        "rot": -12.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 6.6,
+        "maneuver": 1.0,
+        "course": 77.8
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-21T03:00:00+00:00",
+        "destination": "BEANR"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Tanker",
+      "gross_tonnage": "11935",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "34829584-883a-4d42-9757-6b009afd4093",
+      "name": "WANJIANHAI5678",
+      "mmsi": 413831717,
+      "imo": null,
+      "call_sign": "0000000",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 53,
+      "width": 11,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:42:34.377448+00:00",
+      "updated_at": "2019-04-23T14:34:10.927174+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:39+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            119.35833,
+            32.22993
+          ]
+        },
+        "heading": 511.0,
+        "speed": 4.6,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 299.6
+      },
+      "most_recent_voyage": {
+        "eta": "2018-01-06T12:00:00+00:00",
+        "destination": "PANTTANG"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "03939477-9bb1-4c3c-8618-f323aafa07e1",
+      "name": "CHANG YUAN 11",
+      "mmsi": 413328270,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Tanker",
+      "class": "B",
+      "flag": "CN",
+      "length": 50,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:43:28.702453+00:00",
+      "updated_at": "2019-04-23T14:35:15.050904+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.37859,
+            37.56752
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 165.7
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "All Other Activities",
+      "individual_classification": "Pollution and Surface Clearance Vessel",
+      "gross_tonnage": "471",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "85465dab-219a-47c4-ae27-2c1b0045c11d",
+      "name": "BOO SONIER",
+      "mmsi": 367524420,
+      "imo": null,
+      "call_sign": "WDG3281",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "US",
+      "length": 21,
+      "width": 15,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:43:28.780319+00:00",
+      "updated_at": "2019-04-23T14:35:15.034056+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -95.04266,
+            29.70791
+          ]
+        },
+        "heading": 511.0,
+        "speed": 3.3,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 288.1
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Pusher/Tug",
+      "gross_tonnage": "98.0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "4836b151-a8a2-4fea-8bb1-7cff00f2266d",
+      "name": "ZHECHANGXINGHUO5966",
+      "mmsi": 413992459,
+      "imo": null,
+      "call_sign": null,
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 42,
+      "width": 7,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:47:27.613194+00:00",
+      "updated_at": "2019-04-23T14:35:15.973790+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.02213,
+            30.88522
+          ]
+        },
+        "heading": 62.0,
+        "speed": 4.3,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 62.8
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "3ba11706-84f6-46ee-b05d-20e88993c8a1",
+      "name": "NEVADA",
+      "mmsi": 244070112,
+      "imo": null,
+      "call_sign": "PB4945",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "NL",
+      "length": 110,
+      "width": 12,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:50:27.769367+00:00",
+      "updated_at": "2019-04-23T14:35:12.570529+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:03+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.01149,
+            50.89445
+          ]
+        },
+        "heading": 511.0,
+        "speed": 11.6,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.0,
+        "maneuver": 0.0,
+        "course": 269.8
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T16:34:00+00:00",
+        "destination": "GENT MOERVAART"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "4c8d7c79-d877-4276-a41a-b00604b029d1",
+      "name": "HALFDAN GRIEG",
+      "mmsi": 259176000,
+      "imo": null,
+      "call_sign": "LNRS",
+      "ship_type": "Search and Rescue",
+      "class": "A",
+      "flag": "NO",
+      "length": 24,
+      "width": 6,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:50:28.205988+00:00",
+      "updated_at": "2019-04-23T14:35:13.103905+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.24238,
+            59.61122
+          ]
+        },
+        "heading": 30.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 2.6,
+        "maneuver": 0.0,
+        "course": 63.6
+      },
+      "most_recent_voyage": {
+        "eta": "2020-03-21T12:34:00+00:00",
+        "destination": "TLF 91679636 CH16"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Rescue Vessel",
+      "gross_tonnage": "90",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "54358fea-04ac-4a41-95ee-99aef855b54b",
+      "name": "OVERSEAS HOUSTON",
+      "mmsi": 367109000,
+      "imo": 9351062,
+      "call_sign": "WWAA",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "US",
+      "length": 182,
+      "width": 32,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:52:29.324635+00:00",
+      "updated_at": "2019-04-23T14:34:08.998692+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:16+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.61524,
+            29.07446
+          ]
+        },
+        "heading": 323.0,
+        "speed": 14.2,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 8.2,
+        "maneuver": 0.0,
+        "course": 325.3
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-23T12:00:00+00:00",
+        "destination": "PORT ARTHUR"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Tanker",
+      "gross_tonnage": "29200.0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "1663390c-7939-46f2-a6d0-347d2d54b967",
+      "name": "NANDU ARROW",
+      "mmsi": 351952000,
+      "imo": 9529580,
+      "call_sign": "3FPD4",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "PA",
+      "length": 200,
+      "width": 32,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:56:27.368400+00:00",
+      "updated_at": "2019-04-23T14:34:10.701584+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:40+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -34.81482,
+            -8.09518
+          ]
+        },
+        "heading": 100.0,
+        "speed": 0.0,
+        "rot": -5.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 9.6,
+        "maneuver": 0.0,
+        "course": 247.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-22T14:00:00+00:00",
+        "destination": "BR REC"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "At anchor"
+    },
+    {
+      "id": "a25be4f0-ae45-4031-a999-83d9c25b9c90",
+      "name": "SAVAGE INGENUITY",
+      "mmsi": 367551680,
+      "imo": null,
+      "call_sign": "WDG5290",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "US",
+      "length": 5,
+      "width": 4,
+      "ais_version": 0,
+      "created_at": "2017-11-21T04:58:27.550812+00:00",
+      "updated_at": "2019-04-23T14:35:11.647403+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:34+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.7779,
+            29.37757
+          ]
+        },
+        "heading": 45.0,
+        "speed": 6.2,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 2.8,
+        "maneuver": 0.0,
+        "course": 42.9
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-12T18:00:00+00:00",
+        "destination": "HOUSTON TX"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Pusher/Tug",
+      "gross_tonnage": "121.0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "6ea7deae-63ad-43b6-9858-40547a69f3be",
+      "name": "NEPTUNE OKEANIS",
+      "mmsi": 215912000,
+      "imo": 9306706,
+      "call_sign": "9HZW7",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "MT",
+      "length": 163,
+      "width": 25,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:02:28.972579+00:00",
+      "updated_at": "2019-04-23T14:35:15.050904+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.8455,
+            41.60457
+          ]
+        },
+        "heading": 245.0,
+        "speed": 17.8,
+        "rot": -2.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.1,
+        "maneuver": 0.0,
+        "course": 244.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-26T11:00:00+00:00",
+        "destination": "ITVSO"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "536de3fe-cb41-4828-9f75-f443405ac0f8",
+      "name": "FOKINO",
+      "mmsi": 273439060,
+      "imo": 8711758,
+      "call_sign": "UBAA",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "RU",
+      "length": 77,
+      "width": 14,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:02:29.124811+00:00",
+      "updated_at": "2019-04-23T14:35:15.878579+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            132.92088,
+            42.80163
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.7,
+        "maneuver": 0.0,
+        "course": 85.6
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-19T21:00:00+00:00",
+        "destination": "NJK"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Tanker",
+      "gross_tonnage": "3389",
+      "lifeboats": 1.0,
+      "person_capacity": 14.0,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "bac46b25-1528-4ae9-b748-b6cf809de4fd",
+      "name": "YOU YUAN 168",
+      "mmsi": 413788012,
+      "imo": null,
+      "call_sign": "52",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 61,
+      "width": 11,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:03:26.966634+00:00",
+      "updated_at": "2019-04-23T14:35:11.852406+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:00+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            114.04206,
+            30.22689
+          ]
+        },
+        "heading": 301.0,
+        "speed": 3.4,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.7,
+        "maneuver": null,
+        "course": 301.9
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": "63"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "7dff349c-6d35-4f79-97c6-b6f0c14c110f",
+      "name": "HAVILA CHARISMA",
+      "mmsi": 257419000,
+      "imo": 9631890,
+      "call_sign": "LCWZ",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "NO",
+      "length": 95,
+      "width": 20,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:07:29.327595+00:00",
+      "updated_at": "2019-04-23T14:34:09.134965+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:22+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.0716,
+            61.65017
+          ]
+        },
+        "heading": 81.0,
+        "speed": 9.6,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 81.5
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-23T00:00:00+00:00",
+        "destination": "SNORRE A"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Supply Vessel",
+      "gross_tonnage": "4327",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "be1c01b6-9cd5-457a-824b-03740fa4c7f7",
+      "name": "FLEX KESTON",
+      "mmsi": 305188000,
+      "imo": 9259068,
+      "call_sign": "V2DE7",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "AG",
+      "length": 95,
+      "width": 13,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:07:29.814014+00:00",
+      "updated_at": "2019-04-23T14:35:12.621713+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:04+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.51236,
+            56.47812
+          ]
+        },
+        "heading": 234.0,
+        "speed": 10.7,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.7,
+        "maneuver": 0.0,
+        "course": 233.7
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-26T22:00:00+00:00",
+        "destination": "BEANR"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": "3164",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "8a487786-839d-48a8-938a-096c74f39fea",
+      "name": "GANG GONG 9",
+      "mmsi": 413435920,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "CN",
+      "length": 47,
+      "width": 10,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:07:34.049804+00:00",
+      "updated_at": "2019-04-23T14:35:15.278757+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:05+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.62732,
+            38.95561
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.3,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 2.8,
+        "maneuver": 0.0,
+        "course": 117.9
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-13T00:16:00+00:00",
+        "destination": "DA.LIAN"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Oil Tanker",
+      "gross_tonnage": "498",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "2646fa45-7fcc-4e47-9e9a-c777ca8a2a14",
+      "name": "YUSHENGXIANG01",
+      "mmsi": 413801718,
+      "imo": null,
+      "call_sign": "YYYY",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "CN",
+      "length": 54,
+      "width": 9,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:08:26.969473+00:00",
+      "updated_at": "2019-04-23T14:35:14.524748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:07+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            121.56432,
+            31.28703
+          ]
+        },
+        "heading": 194.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 2.0,
+        "maneuver": 0.0,
+        "course": 194.5
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-21T16:56:00+00:00",
+        "destination": "SHANGHAI"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "688c5f87-19dd-4313-9c58-27fe54b93850",
+      "name": "SELVAAG SENIOR",
+      "mmsi": 259623000,
+      "imo": 9195793,
+      "call_sign": "LJXW",
+      "ship_type": "Wing In Ground",
+      "class": "A",
+      "flag": "NO",
+      "length": 67,
+      "width": 13,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:09:26.391391+00:00",
+      "updated_at": "2019-04-23T14:35:15.973790+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:08+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.52522,
+            66.62695
+          ]
+        },
+        "heading": 81.0,
+        "speed": 11.3,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 78.0
+      },
+      "most_recent_voyage": {
+        "eta": "2020-03-21T12:34:00+00:00",
+        "destination": "CH16 FOR MORE INFO"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Fishing Vessel",
+      "gross_tonnage": "1960",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "bc93ef4f-3ff5-4298-afc8-474b78766979",
+      "name": "LIU HANG JI 85888",
+      "mmsi": 413858513,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Other",
+      "class": "B",
+      "flag": "CN",
+      "length": 42,
+      "width": 7,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:13:29.145314+00:00",
+      "updated_at": "2019-04-23T14:34:10.717077+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:26+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.41467,
+            31.94382
+          ]
+        },
+        "heading": 1.0,
+        "speed": 4.2,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 131.7
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "5c1ae72f-ac02-41fc-85f5-bbbb94aa4bc8",
+      "name": "NEW HUMMER",
+      "mmsi": 525000015,
+      "imo": null,
+      "call_sign": "PNDI",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "ID",
+      "length": null,
+      "width": null,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:13:30.751285+00:00",
+      "updated_at": "2019-04-23T14:35:15.034056+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:20+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            106.81185,
+            -6.12102
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.7,
+        "maneuver": 0.0,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-11-06T09:00:00+00:00",
+        "destination": "JAKARTA"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "2d63fb9a-adde-4ba6-81be-8fe03f38f038",
+      "name": "PILOT",
+      "mmsi": 259352000,
+      "imo": null,
+      "call_sign": "LIDE",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "NO",
+      "length": 20,
+      "width": 7,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:14:29.453454+00:00",
+      "updated_at": "2019-04-23T14:35:14.651771+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:09+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.54499,
+            57.95823
+          ]
+        },
+        "heading": 256.0,
+        "speed": 3.3,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 264.3
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": "FISHING GROUND"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Fishing Vessel",
+      "gross_tonnage": "182",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Engaged in fishing"
+    },
+    {
+      "id": "8240132b-df29-43cb-88f9-c4148ee4fed8",
+      "name": "SENANUR CEBI",
+      "mmsi": 538007575,
+      "imo": 9491367,
+      "call_sign": "V7DB8",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "MH",
+      "length": 188,
+      "width": 32,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:22:39.408752+00:00",
+      "updated_at": "2019-04-23T14:35:14.524748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:08+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.47583,
+            29.87785
+          ]
+        },
+        "heading": 335.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 6.2,
+        "maneuver": 0.0,
+        "course": 317.8
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-14T11:00:00+00:00",
+        "destination": "EG ADA"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "8962a2e5-9444-47cd-87e1-c8f9e963714e",
+      "name": "MISS PAMELA",
+      "mmsi": 367002130,
+      "imo": null,
+      "call_sign": "WDC3060",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "US",
+      "length": 7,
+      "width": 23,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:22:43.217063+00:00",
+      "updated_at": "2019-04-23T14:34:08.998692+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:20+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -90.08208,
+            29.90232
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.0,
+        "maneuver": 0.0,
+        "course": 283.4
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-21T12:00:00+00:00",
+        "destination": "BOLLING HARVEY"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Pusher/Tug",
+      "gross_tonnage": "91.0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "e5a477b5-21e0-4d6c-8120-0d27cb3164c7",
+      "name": "WILHELMINE VON STADA",
+      "mmsi": 211304200,
+      "imo": null,
+      "call_sign": "DFTJ",
+      "ship_type": "Sailing Vessel",
+      "class": "B",
+      "flag": "DE",
+      "length": 25,
+      "width": 4,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:27:30.239281+00:00",
+      "updated_at": "2019-04-23T14:34:12.160237+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.47926,
+            53.60393
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.1,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 180.6
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Pleasure/Leisure",
+      "individual_classification": "Sailing Ship",
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": 12.0,
+      "navigational_status": null
+    },
+    {
+      "id": "2f3df90a-f8e0-4c64-bd9a-b03fa5fa662e",
+      "name": "VF TANKER-1",
+      "mmsi": 273351450,
+      "imo": 9640499,
+      "call_sign": "UBFI2",
+      "ship_type": "Tanker",
+      "class": "A",
+      "flag": "RU",
+      "length": 141,
+      "width": 17,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:27:30.333066+00:00",
+      "updated_at": "2019-04-23T14:35:13.476991+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.18829,
+            44.27311
+          ]
+        },
+        "heading": 237.0,
+        "speed": 9.6,
+        "rot": 8.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 4.0,
+        "maneuver": 0.0,
+        "course": 239.3
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-30T10:00:00+00:00",
+        "destination": "IL   HFA"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Merchant",
+      "individual_classification": "Tanker",
+      "gross_tonnage": "5089",
+      "lifeboats": 1.0,
+      "person_capacity": 16.0,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "7eb38a56-b87b-4ced-b8ea-c7ec1c3d4ae6",
+      "name": "BORE SEA",
+      "mmsi": 244130689,
+      "imo": 9443554,
+      "call_sign": "PDFR",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "NL",
+      "length": 195,
+      "width": 26,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:29:27.782523+00:00",
+      "updated_at": "2019-04-23T14:35:14.651771+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.33879,
+            60.1085
+          ]
+        },
+        "heading": 307.0,
+        "speed": 9.6,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 6.4,
+        "maneuver": 0.0,
+        "course": 307.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T06:05:00+00:00",
+        "destination": "PALDISKI"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "24ff9f19-4348-4b3d-9179-84ca01b2e25e",
+      "name": "CAPE TEXAS",
+      "mmsi": 368952000,
+      "imo": 7602247,
+      "call_sign": "WSDG",
+      "ship_type": "Special Craft",
+      "class": "A",
+      "flag": "US",
+      "length": 193,
+      "width": 30,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:30:28.805617+00:00",
+      "updated_at": "2019-04-23T14:34:12.949887+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:42+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.0905,
+            30.0777
+          ]
+        },
+        "heading": 228.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 7.2,
+        "maneuver": 0.0,
+        "course": 188.0
+      },
+      "most_recent_voyage": {
+        "eta": "2020-03-28T06:00:00+00:00",
+        "destination": "BEAUMONT"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Moored"
+    },
+    {
+      "id": "25457ddf-3e3a-4c34-9383-8d5669ed5b1d",
+      "name": "LEON Z",
+      "mmsi": 239808200,
+      "imo": 9359519,
+      "call_sign": "SVA5839",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "GR",
+      "length": 22,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:33:27.068335+00:00",
+      "updated_at": "2019-04-23T14:35:14.524748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:03+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.50612,
+            38.03604
+          ]
+        },
+        "heading": 2.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.7,
+        "maneuver": 0.0,
+        "course": 4.0
+      },
+      "most_recent_voyage": {
+        "eta": "2019-12-12T01:00:00+00:00",
+        "destination": "THESSALONIKI"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "551f20f9-1c9e-44ef-a7a2-67e13ea3b1f8",
+      "name": "ZHEPUYU75116",
+      "mmsi": 412424389,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Fishing",
+      "class": "B",
+      "flag": "CN",
+      "length": 30,
+      "width": 6,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:34:27.947842+00:00",
+      "updated_at": "2019-04-23T14:35:12.024748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:10+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            122.3391,
+            30.01423
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 0.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "ef8f74d6-4458-4633-91ed-d91a96c67ddf",
+      "name": "PILOT BOAT 1",
+      "mmsi": 224271150,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Other",
+      "class": "B",
+      "flag": "ES",
+      "length": null,
+      "width": null,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:37:34.792438+00:00",
+      "updated_at": "2019-04-23T14:35:12.024748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:31+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            1.4383,
+            38.91564
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 23.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "43e09d8d-c7cf-42b2-abf1-6514927565f1",
+      "name": "CHUTIAN5999",
+      "mmsi": 413825594,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": null,
+      "class": "B",
+      "flag": "CN",
+      "length": null,
+      "width": null,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:37:44.614829+00:00",
+      "updated_at": "2019-04-23T14:34:09.134965+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:11+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            112.64706,
+            29.74636
+          ]
+        },
+        "heading": 219.0,
+        "speed": 5.8,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 220.1
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "ca0260bd-98df-412f-8f57-e4186b532d6e",
+      "name": "TUCANA",
+      "mmsi": 245050000,
+      "imo": 9455674,
+      "call_sign": "PBAQ",
+      "ship_type": "Cargo",
+      "class": "A",
+      "flag": "NL",
+      "length": 88,
+      "width": 12,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:39:27.891618+00:00",
+      "updated_at": "2019-04-23T14:35:15.973790+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.10712,
+            54.95956
+          ]
+        },
+        "heading": 147.0,
+        "speed": 8.3,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 5.5,
+        "maneuver": 0.0,
+        "course": 146.3
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T14:00:00+00:00",
+        "destination": "SZCZEBG"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "4a4cd7ff-4ad7-4ab6-9b55-dfa82cd06d58",
+      "name": "FROEYBANKEN",
+      "mmsi": 257470500,
+      "imo": null,
+      "call_sign": "LJML",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "NO",
+      "length": 22,
+      "width": 6,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:39:28.538725+00:00",
+      "updated_at": "2019-04-23T14:35:12.024748+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:46+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.08504,
+            67.93342
+          ]
+        },
+        "heading": 145.0,
+        "speed": 0.0,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 3.6,
+        "maneuver": 0.0,
+        "course": 264.3
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Fishing Vessel",
+      "gross_tonnage": "101",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "8b443634-2e2b-4316-b1b6-59755805ebdf",
+      "name": "WLA-291",
+      "mmsi": 261005270,
+      "imo": 7635787,
+      "call_sign": "SPG2441",
+      "ship_type": "Fishing",
+      "class": "A",
+      "flag": "PL",
+      "length": 27,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:46:27.872604+00:00",
+      "updated_at": "2019-04-23T14:35:13.476991+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:01+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.80338,
+            54.60012
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 192.0
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": "HEL"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Fishing Industry",
+      "individual_classification": "Cutter",
+      "gross_tonnage": "0",
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Engaged in fishing"
+    },
+    {
+      "id": "16ded015-ff8d-4156-a579-9246810600f1",
+      "name": "BATAMFAST 6",
+      "mmsi": 525023092,
+      "imo": 8883408,
+      "call_sign": "YB3443",
+      "ship_type": "Passenger Ship",
+      "class": "A",
+      "flag": "ID",
+      "length": 23,
+      "width": 5,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:47:31.612282+00:00",
+      "updated_at": "2019-04-23T14:34:12.798674+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:56+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.9961,
+            1.15403
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.0,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 1.0,
+        "maneuver": 0.0,
+        "course": 179.1
+      },
+      "most_recent_voyage": {
+        "eta": "2019-12-29T09:20:00+00:00",
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "54c969a2-faf3-4f25-8f91-f493f0f54b73",
+      "name": "ZHEANJIHUO2507",
+      "mmsi": 413964841,
+      "imo": null,
+      "call_sign": "NULL",
+      "ship_type": "Cargo",
+      "class": "B",
+      "flag": "CN",
+      "length": 42,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:47:32.998574+00:00",
+      "updated_at": "2019-04-23T14:35:13.103905+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:34:25+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            120.13216,
+            30.42927
+          ]
+        },
+        "heading": 511.0,
+        "speed": 3.9,
+        "rot": null,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": null,
+        "maneuver": null,
+        "course": 34.7
+      },
+      "most_recent_voyage": {
+        "eta": null,
+        "destination": null
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": null
+    },
+    {
+      "id": "f3f64fb1-f81f-4007-a3a5-8bd0fd87538c",
+      "name": "SQUEAK CARPENTER",
+      "mmsi": 366793340,
+      "imo": 8635679,
+      "call_sign": "WDA2979",
+      "ship_type": "Tug",
+      "class": "A",
+      "flag": "US",
+      "length": 84,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:50:30.138230+00:00",
+      "updated_at": "2019-04-23T14:34:10.717077+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:33:11+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.7194,
+            29.42567
+          ]
+        },
+        "heading": 225.0,
+        "speed": 5.4,
+        "rot": 0.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 0.0,
+        "maneuver": 0.0,
+        "course": 228.3
+      },
+      "most_recent_voyage": {
+        "eta": "2019-04-24T04:00:00+00:00",
+        "destination": "ASCEND CHOCO BAYOU"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": null,
+      "individual_classification": null,
+      "gross_tonnage": null,
+      "lifeboats": null,
+      "person_capacity": null,
+      "navigational_status": "Under way using engine"
+    },
+    {
+      "id": "6586dd47-c8dd-4b10-b14a-3b5513df2e55",
+      "name": "RV LEEWAY ODYSSEY",
+      "mmsi": 316003090,
+      "imo": 7635995,
+      "call_sign": "CFA2372",
+      "ship_type": "Other",
+      "class": "A",
+      "flag": "CA",
+      "length": 41,
+      "width": 8,
+      "ais_version": 0,
+      "created_at": "2017-11-21T05:56:27.374646+00:00",
+      "updated_at": "2019-04-23T14:35:15.034056+00:00",
+      "last_known_position": {
+        "timestamp": "2019-04-23T14:35:02+00:00",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -63.55713,
+            44.66041
+          ]
+        },
+        "heading": 511.0,
+        "speed": 0.1,
+        "rot": -128.0,
+        "accuracy": null,
+        "collection_type": "terrestrial",
+        "draught": 2.5,
+        "maneuver": 0.0,
+        "course": 203.8
+      },
+      "most_recent_voyage": {
+        "eta": "2020-02-23T20:30:00+00:00",
+        "destination": "HALIFAX"
+      },
+      "predicted_position": {
+        "timestamp": null,
+        "geometry": {
+          "type": "Point",
+          "coordinates": []
+        },
+        "speed": null,
+        "course": null,
+        "confidence_radius": null
+      },
+      "general_classification": "Service Vessels",
+      "individual_classification": "Research Ship/Survey Ship",
+      "gross_tonnage": "346",
+      "lifeboats": 1.0,
+      "person_capacity": 25.0,
+      "navigational_status": "Under way using engine"
+    }
+  ]
+}
